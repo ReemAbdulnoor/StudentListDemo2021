@@ -1,8 +1,4 @@
-/*
- *  Reem Abdulnoor
- *  Student ID:991614933
- *  Web design 
- */
+
 package studentlist;
 
 import java.util.Scanner;
